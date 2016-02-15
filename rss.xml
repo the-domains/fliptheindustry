@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[FLIPtheIndustry]]></title>
         <description><![CDATA[FLIPtheIndustry]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fliptheindustry/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 11:07:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Feb 2016 11:08:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fliptheindustry/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>The OM Sound is a dynamic musical collective fusing elements of hip hop, soul, electronica, and world instruments to create a mesmerizing and groove-heavy sound.  Their extensive world travels serve as inspiration for their socially, environmentally, and spiritually conscious message, conveyed through soul stirring lyrics and rich soundscapes.</p>]]></description>
-            <link>undefinedbcf2bc73-2e44-46cb-a46c-6de3d5959c8a/index.html</link>
+            <link>https://thegrid.ai/fliptheindustry/bcf2bc73-2e44-46cb-a46c-6de3d5959c8a/index.html</link>
             <guid isPermaLink="false">bcf2bc73-2e44-46cb-a46c-6de3d5959c8a</guid>
-            <pubDate>Mon, 15 Feb 2016 11:07:43 GMT</pubDate>
+            <pubDate>Mon, 15 Feb 2016 11:07:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
